@@ -14,3 +14,6 @@ You can run that from your terminal or your web browser.
 3. The third step of the installer is to create an admin account. Don’t be one of those people and be sure to pick a strong password.
 4. The final step is to define your System Name, Base URL, and Language.
 ### Course content
+| Week | Course content |
+|---------|---------|
+| Week1 | Introduction to Javascript and Nodejs |
